@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm Yusuf Erem 👋
 
-<!--
-**YusufErem/YusufErem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineer** | 💻 **Backend Developer** | 🤖 **AI/ML Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🔭 I’m currently working on AI-powered web applications using Django and Machine Learning models.
+- 📚 I'm continuously learning and working with libraries such as **Pandas**, **Scikit-learn** and **TensorFlow**.
+
+---
+
+### 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yusuferem)
+- ✉️ Email: ysferem@gmail.com
+
+---
+
+⭐ If you find my projects helpful or interesting, feel free to **star** the repositories!
