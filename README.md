@@ -6,14 +6,24 @@
 
 ### About Me
 
-- 🔭 I’m currently working on AI-powered web applications using Django and Machine Learning models.
-- 📚 I'm continuously learning and working with libraries such as **Pandas**, **Scikit-learn** and **TensorFlow**.
+- 🔭 I’m currently building APIs, web applications, and working on data science projects.
+- 📚 I'm continuously learning and working with libraries such as **Pandas**, **Scikit-learn**, **TensorFlow**, and exploring data science techniques.
+
+---
+
+### 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+1. **Flight Search API**  
+   A backend API built with Django REST framework to efficiently manage flight and airport data.   
+   [GitHub Repository](https://github.com/yusuferem/flight-search-api)
 
 ---
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yusuferem)
+- 💼 [LinkedIn](https://linkedin.com/in/YusufErem)
 - ✉️ Email: ysferem@gmail.com
 
 ---
