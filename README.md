@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 
 - 💼 [LinkedIn](https://linkedin.com/in/YusufErem)
 - ✉️ Email: ysferem@gmail.com
-
+- 👨‍💻 [Kaggle](https://www.kaggle.com/yusuferem)
 ---
 
 ⭐ If you find my projects helpful or interesting, feel free to **star** the repositories!
