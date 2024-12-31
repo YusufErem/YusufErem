@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
 
 1. **Flight Search API**  
    A backend API built with Django REST framework to efficiently manage flight and airport data.   
-   [GitHub Repository](https://github.com/yusuferem/flight-search-api)
+   [GitHub Repository](https://github.com/yusuferem/flight_search_api)
 
 ---
 
